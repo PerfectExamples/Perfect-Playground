@@ -52,12 +52,13 @@
 只要打开终端命令行并执行下列命令，即可尝试Perfect Playground项目：
 
 ``` 
-$ git clone https://github.com/PerfectExamples/Playground.git
-$ cd Playground
+$ git clone https://github.com/PerfectExamples/Perfect-Playground.git
+$ cd Perfect-Playground
+$ swift package generate-xcodeproj
 $ open Perfect.xcworkspace/
 ```
 
-这样您就可以点击其中的工作空间并尝试Perfect的基本功能，比如 JSON 和 UUID：
+然后编译项目（组合键CTRL-B），这样您就可以点击其中的工作空间并尝试Perfect的基本功能，比如 JSON 和 UUID：
 
 
 <p><img src='playgnd.png'></p>

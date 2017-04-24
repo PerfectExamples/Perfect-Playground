@@ -50,12 +50,13 @@ Ensure you have installed and activated the latest Xcode 8.3.
 Use commands below in your Mac's terminal to activate playground with Perfect support:
 
 ``` 
-$ git clone https://github.com/PerfectExamples/Playground.git
-$ cd Playground
+$ git clone https://github.com/PerfectExamples/Perfect-Playground.git
+$ cd Perfect-Playground
+$ swift package generate-xcodeproj
 $ open Perfect.xcworkspace/
 ```
 
-Then you can open the playground file inside this workspace and see some basic Perfect features, such as JSON and UUID support:
+Once build the workspace (CTRL-B), then you can open the playground file inside this workspace and see some basic Perfect features, such as JSON and UUID support:
 
 
 <p><img src='playgnd.png'></p>
