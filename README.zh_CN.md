@@ -63,6 +63,17 @@ $ open Perfect.xcworkspace/
 
 <p><img src='playgnd.png'></p>
 
+## 自己动手，丰衣足食
+
+您完全可以自己在Perfect Swift项目中增加游乐场，方法很简单：
+
+- 使用 `swift package generate-xcodeproj` 命令为当前Perfect项目新建一个Xcode工程。
+- 在Xcode中新建一个空白的工作空间并保存到您的工程目录中。
+- 将当前的Xcode工程加入到新建的工作空间。
+- 在同一工程目录下创建一个新的游乐场。
+- 将游乐场增加到统一工作空间。
+- 编译项目，这样就激活了游乐场的PerfectLib函数库功能。
+- 请慢用哈！
 
 ### 问题报告、内容贡献和客户支持
 
@@ -74,3 +85,6 @@ $ open Perfect.xcworkspace/
 
 ## 更多信息
 关于本项目更多内容，请参考[perfect.org](http://perfect.org).
+
+## 扫一扫 Perfect 官网微信号
+<p align=center><img src="https://raw.githubusercontent.com/PerfectExamples/Perfect-Cloudinary-ImageUploader-Demo/master/qr.png"></p>

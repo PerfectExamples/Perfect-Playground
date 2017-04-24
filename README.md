@@ -61,7 +61,18 @@ Once build the workspace (CTRL-B), then you can open the playground file inside 
 
 <p><img src='playgnd.png'></p>
 
+## DIY
 
+To integrate a playground to your own Perfect Swift project, here is the instruction:
+
+- Use `swift package generate-xcodeproj` to create an Xcode project for your Perfect project.
+- Create an empty workspace in Xcode and save it into your project folder.
+- Add the current Perfect Xcode project to this workspace.
+- Create a new playground in the same project folder.
+- Add the playground into the same workspace.
+- Build the project then active the PerfectLib framework.
+- Have fun!
+ 
 ## Issues
 
 We are transitioning to using JIRA for all bugs and support related issues, therefore the GitHub issues has been disabled.
@@ -72,3 +83,6 @@ A comprehensive list of open issues can be found at [http://jira.perfect.org:808
 
 ## Further Information
 For more information on the Perfect project, please visit [perfect.org](http://perfect.org).
+
+## Now WeChat Subscription is Available (Chinese)
+<p align=center><img src="https://raw.githubusercontent.com/PerfectExamples/Perfect-Cloudinary-ImageUploader-Demo/master/qr.png"></p>
