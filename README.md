@@ -52,7 +52,6 @@ Use commands below in your Mac's terminal to activate playground with Perfect su
 ``` 
 $ git clone https://github.com/PerfectExamples/Perfect-Playground.git
 $ cd Perfect-Playground
-$ swift package generate-xcodeproj
 $ open Perfect.xcworkspace/
 ```
 
@@ -68,6 +67,7 @@ To integrate a playground to your own Perfect Swift project, here is the instruc
 - Use `swift package generate-xcodeproj` to create an Xcode project for your Perfect project.
 - Create an empty workspace in Xcode and save it into your project folder.
 - Add the current Perfect Xcode project to this workspace.
+- goto Xcode project build settings and change `import` (SWIFT_INCLUDE_PATH) to `${PROJECT_DIR}` with the `recursive` option.
 - Create a new playground in the same project folder.
 - Add the playground into the same workspace.
 - Build the project then active the PerfectLib framework.

@@ -54,7 +54,6 @@
 ``` 
 $ git clone https://github.com/PerfectExamples/Perfect-Playground.git
 $ cd Perfect-Playground
-$ swift package generate-xcodeproj
 $ open Perfect.xcworkspace/
 ```
 
@@ -69,6 +68,7 @@ $ open Perfect.xcworkspace/
 
 - 使用 `swift package generate-xcodeproj` 命令为当前Perfect项目新建一个Xcode工程。
 - 在Xcode中新建一个空白的工作空间并保存到您的工程目录中。
+- 在Xcode工程的编译设置中调整 `import` (SWIFT_INCLUDE_PATH) 路径并改变为 `${PROJECT_DIR}` 并设置`recursive`（递归）选项。
 - 将当前的Xcode工程加入到新建的工作空间。
 - 在同一工程目录下创建一个新的游乐场。
 - 将游乐场增加到统一工作空间。
