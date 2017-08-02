@@ -1,0 +1,93 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "34960BE0662A843FD73EE9FD57AC505BD0A679E8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : 9223372036854775807,
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : 9223372036854775807,
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : 9223372036854775807,
+    "615FD99B652E80AC2E813EEEE7964BA10A9886D5" : 9223372036854775807,
+    "9A1954406EDB7889917613180D505A9D1AF9E8C7" : 9223372036854775807,
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : 9223372036854775807,
+    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F" : 9223372036854775807,
+    "C4127C9B9C8FDF608B532AD72407863CE2797629" : 9223372036854775807,
+    "1C2EE1346F47A2A356236DC3F5B8138044CC8F24" : 9223372036854775807,
+    "3B905509A4DD1F5305D27EF37A9F71F239F93941" : 9223372036854775807,
+    "34960BE0662A843FD73EE9FD57AC505BD0A679E8" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "24A35C1A-5633-4C8A-86FC-41AD77855A89",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DCD994A20FFF69E73D7DE28EB512BBF004934554" : "Perfect-Playground\/.build\/checkouts\/Perfect-COpenSSL.git--4744624199947727386\/",
+    "6F1260245BD69EFA9A05D126763C86280510C6E1" : "Perfect-Playground\/.build\/checkouts\/Perfect-Net.git-3268755499654502659\/",
+    "9197B75B1BC29921D6E3B1CCDC2B258350009F3A" : "Perfect-Playground\/.build\/checkouts\/Perfect-HTTP.git--6392294032632002019\/",
+    "615FD99B652E80AC2E813EEEE7964BA10A9886D5" : "Perfect-Playground\/.build\/checkouts\/Perfect-Thread.git-6541237758607105655\/",
+    "9A1954406EDB7889917613180D505A9D1AF9E8C7" : "Perfect-Playground\/.build\/checkouts\/Perfect-XML.git--3069111962689080115\/",
+    "E2306DAE0C98D148736A05084B6FAB44F03B4909" : "Perfect-Playground\/.build\/checkouts\/PerfectLib.git-3712999737848873669\/",
+    "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F" : "Perfect-Playground\/.build\/checkouts\/Perfect-Crypto.git--5196635702121641122\/",
+    "C4127C9B9C8FDF608B532AD72407863CE2797629" : "Perfect-Playground\/.build\/checkouts\/Perfect-HTTPServer.git--6671958091389663080\/",
+    "1C2EE1346F47A2A356236DC3F5B8138044CC8F24" : "Perfect-Playground\/.build\/checkouts\/Perfect-Markdown.git-4060761756914403426\/",
+    "3B905509A4DD1F5305D27EF37A9F71F239F93941" : "Perfect-Playground\/.build\/checkouts\/Perfect-CURL.git-8858624468322681619\/",
+    "34960BE0662A843FD73EE9FD57AC505BD0A679E8" : "Perfect-Playground\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PerfectPlayground",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PerfectPlayground.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-Markdown.git-4060761756914403426",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C2EE1346F47A2A356236DC3F5B8138044CC8F24"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/PerfectExamples\/Perfect-Playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "34960BE0662A843FD73EE9FD57AC505BD0A679E8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-CURL.git-8858624468322681619",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B905509A4DD1F5305D27EF37A9F71F239F93941"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-Thread.git-6541237758607105655",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "615FD99B652E80AC2E813EEEE7964BA10A9886D5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-Net.git-3268755499654502659",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F1260245BD69EFA9A05D126763C86280510C6E1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-HTTP.git--6392294032632002019",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9197B75B1BC29921D6E3B1CCDC2B258350009F3A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-XML.git--3069111962689080115",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A1954406EDB7889917613180D505A9D1AF9E8C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-HTTPServer.git--6671958091389663080",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4127C9B9C8FDF608B532AD72407863CE2797629"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-COpenSSL.git--4744624199947727386",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DCD994A20FFF69E73D7DE28EB512BBF004934554"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/PerfectLib.git-3712999737848873669",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2306DAE0C98D148736A05084B6FAB44F03B4909"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rockywei\/Documents\/Perfect-Playground\/.build\/repositories\/Perfect-Crypto.git--5196635702121641122",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E71C9F673135F52EEF9E6F1B8D0895D4850F2E7F"
+    }
+  ]
+}
